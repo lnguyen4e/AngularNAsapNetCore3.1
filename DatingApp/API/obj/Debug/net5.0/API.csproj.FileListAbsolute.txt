@@ -108,3 +108,4 @@ C:\UdemyCourses\AngularNAsapNetCore3.1\DatingApp\API\obj\Debug\net5.0\API.dll
 C:\UdemyCourses\AngularNAsapNetCore3.1\DatingApp\API\obj\Debug\net5.0\ref\API.dll
 C:\UdemyCourses\AngularNAsapNetCore3.1\DatingApp\API\obj\Debug\net5.0\API.pdb
 C:\UdemyCourses\AngularNAsapNetCore3.1\DatingApp\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\udemy\AngularandAsapnetCore\AngularNAsapNetCore3.1\DatingApp\API\bin\Debug\net5.0\Data\UserSeedData.json
