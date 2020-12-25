@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "C:\\udemy\\AngularandAsapnetCore\\AngularNAsapNetCore3.1\\DatingApp\\API\\API.csproj": {}
+    "C:\\UdemyCourses\\AngularNAsapNetCore3.1\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\udemy\\AngularandAsapnetCore\\AngularNAsapNetCore3.1\\DatingApp\\API\\API.csproj": {
+    "C:\\UdemyCourses\\AngularNAsapNetCore3.1\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\udemy\\AngularandAsapnetCore\\AngularNAsapNetCore3.1\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\UdemyCourses\\AngularNAsapNetCore3.1\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\udemy\\AngularandAsapnetCore\\AngularNAsapNetCore3.1\\DatingApp\\API\\API.csproj",
+        "projectPath": "C:\\UdemyCourses\\AngularNAsapNetCore3.1\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\onela\\.nuget\\packages\\",
-        "outputPath": "C:\\udemy\\AngularandAsapnetCore\\AngularNAsapNetCore3.1\\DatingApp\\API\\obj\\",
+        "outputPath": "C:\\UdemyCourses\\AngularNAsapNetCore3.1\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\onela\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
