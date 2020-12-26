@@ -109,3 +109,5 @@ C:\UdemyCourses\AngularNAsapNetCore3.1\DatingApp\API\obj\Debug\net5.0\ref\API.dl
 C:\UdemyCourses\AngularNAsapNetCore3.1\DatingApp\API\obj\Debug\net5.0\API.pdb
 C:\UdemyCourses\AngularNAsapNetCore3.1\DatingApp\API\obj\Debug\net5.0\API.genruntimeconfig.cache
 C:\udemy\AngularandAsapnetCore\AngularNAsapNetCore3.1\DatingApp\API\bin\Debug\net5.0\Data\UserSeedData.json
+C:\udemy\AngularandAsapnetCore\AngularNAsapNetCore3.1\DatingApp\API\bin\Debug\net5.0\AutoMapper.dll
+C:\udemy\AngularandAsapnetCore\AngularNAsapNetCore3.1\DatingApp\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
